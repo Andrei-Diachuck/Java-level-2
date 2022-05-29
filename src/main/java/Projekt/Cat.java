@@ -3,8 +3,6 @@ package Projekt;
 public class Cat implements Action {
 
 
-    public Cat(int dis) {
-    }
 
     @Override
     public int dis(int treadmill, int wall, int r, int j) {

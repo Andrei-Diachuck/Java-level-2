@@ -2,8 +2,6 @@ package Projekt;
 
 public class Bird implements Action{
 
-    public Bird(int dis) {
-    }
 
     @Override
     public int dis(int treadmill, int wall, int r, int j) {

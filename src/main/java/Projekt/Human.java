@@ -1,8 +1,6 @@
 package Projekt;
 
 public class Human  implements Action {
-    public Human(int dis) {
-    }
 
     @Override
     public int dis(int treadmill, int wall, int r, int j) {
